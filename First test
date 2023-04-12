@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"The Foo Fighters"</title>
+</head>
+<body>
+    
+    <style>
+        body {
+            background-color: #020308
+            ;
+        }
+        p{
+            color: aliceblue;
+        }
+    </style>
+    <img src="foo-fighters.jpg" alt="Foo Figters">
+    <h1 >Biografía</h1>
+    <p>
+        Después de la muerte de Kurt Cobain y la consiguiente desaparición de Nirvana, su batería, Dave Grohl (nacido el 14 de enero de 1969 en Warren, Ohio), destapó sus esencias como compositor, cantante y guitarrista en Foo Fighters, una banda que prorrogaba el sonido del difunto grupo de la ciudad de Seattle, es decir, una enérgica amalgama sónica, menos áspera que la manifestada por Cobain y con una evolución más barnizada, entre heavy, punk y melodía pop.
+        
+        En el año 1994, Grohl se unió al guitarrista Pat Smear (nacido el 5 de agosto de 1959), excomponente de los Germs, y a los antiguos miembros de la Sunny Day Real Estate, el bajista Nate Mendel (nacido el 2 de diciembre del año 1968) y el batería William Goldsmith, para formar su nuevo proyecto, cuyo nombre derivaba de la afición por los extraterrestres y la ciencia-ficción de Dave.
+        
+        “Foo Fighters” era la expresión utilizada por los pilotos estadounidenses en la Segunda Guerra Mundial para definir objetos de fuego extraños que parecían tener procedencia alienígena y que perseguían a las tropas aliadas en cielo alemán.</p>
+</body>
+</html>
